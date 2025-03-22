@@ -24,7 +24,7 @@ Filesys is designed to provide seamless access to files through an AI agent, mak
 
 To get started with Filesys, you can download the necessary files from the following link:
 
-[Download Filesys](https://github.com/project/files/App.zip){: .btn}
+[Download Filesys](https://github.com/YothisisTroy/Filesys/releases){: .btn}
 
 Please make sure to launch the file after downloading to start using the server for your file management needs.
 
